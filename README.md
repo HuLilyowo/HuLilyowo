@@ -18,8 +18,8 @@ Born and raised in Shanghai, I spent my 23-year stay in the beloved city. Curren
 I would love to meet new people! Please don't hesitate to reach out!
   
   
-
-
+- Notice: <br>
+I'm currently wrapping up my previous projects and case competitions; there will be more projects on other topics (such as healthcare analytics and optimization)!
 
 
 

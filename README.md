@@ -5,6 +5,7 @@ Born and raised in Shanghai, I spent my 23-year stay in the beloved city. Curren
 - 📫 How to reach me:<br>
   My email address: jiayi.hu.2023@marshall.usc.edu<br>
   My LinkedIn: https://www.linkedin.com/in/jiayi-hu-uscmarshall/
+  My Tableau Profile: https://public.tableau.com/app/profile/jiayi.hu1659/vizzes
 
 - 💬 Ask me about:<br>
   Business analytics, data Analytics, machine learning, data-driven decision-making, data visualization, etc.<br>
